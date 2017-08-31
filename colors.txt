@@ -1,15 +1,7 @@
 colors
-<<<<<<< HEAD
 ------
 blue
 black
 green
-=======
-<<<<<<< HEAD
-black
-=======
-blue
->>>>>>> parent of e05bf60... colors.txt: add green
->>>>>>> dd5a9e6fd66f0e0d0f783fd2dc15b15128584f4d
 red
 white
